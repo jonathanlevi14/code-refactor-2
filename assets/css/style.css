@@ -49,8 +49,8 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/*better named the class and added alt for the background photo
+.background-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -101,8 +101,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine {
+/*deleted excessive or repetative lines*/
+.search-online-social {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -110,12 +110,12 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine img {
+/*deleted excessive or repetative lines*/
+.search-online-social img {
     max-height: 200px;
 }
-
-.search-engine h2 {
+/*deleted excessive or repetative lines*/
+.search-online-social h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
